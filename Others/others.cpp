@@ -9,3 +9,7 @@ cout.tie(NULL);
 
 // magic
 #pragma GCC optimize ("O3")
+
+// baca file
+ifstream fin("input.txt")
+ofstream fout("output.txt")
